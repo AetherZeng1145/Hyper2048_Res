@@ -2,8 +2,8 @@
     "item": {
       "name": "Hyper2048",
       "description": "为Xiaomi Watch S系列打造的2048小游戏",
-      "preview": ["/preview.png", "/review2.png"],
-      "icon": "/icon.png",
+      "preview": ["preview.png", "preview2.png"],
+      "icon": "icon.png",
       "source_url": "https://github.com/AetherZeng1145/Hyper2048",
       "author": [{
         "name": "Aether空",
@@ -13,19 +13,20 @@
     "downloads": {
       "n62": {
         "version": "1.0.0",
-        "file_name": "/com.aether.2048.1.0.0.rpk"
+        "file_name": "com.aether.2048.1.0.0.rpk"
       },
      "o62": {
         "version": "1.0.0",
-        "file_name": "/com.aether.2048.1.0.0.rpk"
+        "file_name": "com.aether.2048.1.0.0.rpk"
       },
      "o62m": {
         "version": "1.0.0",
-        "file_name": "/com.aether.2048.1.0.0.rpk"
+        "file_name": "com.aether.2048.1.0.0.rpk"
       }
     }
   }
 
   
+
 
 
